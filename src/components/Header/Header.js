@@ -14,19 +14,19 @@ function Header() {
             <div className="navbar">
               <ul className="navbar__item">
                 <li>
-                  <a href="#">Booking</a>
+                  <a href="index.html">Booking</a>
                 </li>
                 <li>
-                  <a href="#">Facilities</a>
+                  <a href="index.html">Facilities</a>
                 </li>
                 <li>
-                  <a href="#">About Us</a>
+                  <a href="index.html">About Us</a>
                 </li>
                 <li>
-                  <a href="#">Location</a>
+                  <a href="index.html">Location</a>
                 </li>
                 <li>
-                  <a href="#">Contact</a>
+                  <a href="index.html">Contact</a>
                 </li>
               <div className="btn-group">
                 <Menu />

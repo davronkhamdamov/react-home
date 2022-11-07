@@ -1,6 +1,5 @@
 import './Button.css';
 import Menuimg from '../../assets/images/menu.svg';
-import { BiSearch } from 'react-icons/bi';
 function SignIn() {
   return (
     <div className="btn">
