@@ -1,0 +1,25 @@
+.bestHotel__text {
+  width: 400px;
+  line-height: 28px;
+  margin-top: 20px;
+}
+.card-btns {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 20px 0;
+}
+.card-hotel {
+  width: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.card-hotel button {
+  width: 100px;
+  height: 35px;
+  border-radius: 10px;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  background: transparent;
+}

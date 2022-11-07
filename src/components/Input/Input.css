@@ -1,0 +1,19 @@
+.date__input{
+    width: 198px;
+    height: 46px;
+    padding: 3px;
+    background: var(--btn);
+    border: 1px solid transparent;
+    border-radius: 8px;
+    outline: none;
+    font-size: 20px;
+}
+.user__item{
+    width: 208px;
+    height: 46px;
+    background: var(--btn);
+    text-align: center;
+    line-height: 45px;
+    border-radius: 8px;
+    font-size: 23px;
+}

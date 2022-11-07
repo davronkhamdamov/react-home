@@ -1,0 +1,31 @@
+@import url(https://fonts.googleapis.com/css2?family=Open+Sans:wght@100;200;300;400;500;600;800&display=swap);
+
+:root {
+  --open: 'Open Sans', sans-serif;
+  --black: #222222;
+  --grey: #555555;
+  --qora: #666666;
+  --sariq: #f9d15c;
+  --btn: #fafafa;
+  --kulrang: #eaeceb;
+}
+body {
+  font-family: var(--open);
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container {
+  width: 100%;
+  max-width: 1300px;
+  margin: 0 auto;
+}
+ul {
+  list-style: none;
+}
+a {
+  color: var(--black);
+  text-decoration: none;
+}

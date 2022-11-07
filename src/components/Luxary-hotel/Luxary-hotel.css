@@ -1,0 +1,31 @@
+.hotel-wrapper {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  margin: 80px 0;
+}
+.luxary__title {
+  width: 419px;
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 50px;
+}
+.luxary__text {
+  width: 586px;
+  line-height: 28px;
+  color: var(--black);
+  margin-top: 20px;
+}
+.luxary__card ul {
+  height: 100px;
+  margin-top: 50px;
+}
+
+.luxary__btn {
+  height: 56px;
+  width: 167px;
+  border-radius: 8px;
+  margin-top: 30px;
+  background: #3771c8;
+  color: #fff;
+}

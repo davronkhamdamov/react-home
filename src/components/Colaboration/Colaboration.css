@@ -1,0 +1,6 @@
+.colaboration {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin: 40px 0;
+}

@@ -1,0 +1,25 @@
+.image {
+  width: 100%;
+  margin: 70px 0;
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+}
+.image-center {
+  margin-right: 20px;
+}
+.leftImage img + img {
+  margin-top: 20px;
+}
+.leftImage img {
+  width: 100%;
+}
+.image__text {
+  position: absolute;
+  font-size: 44px;
+  line-height: 60px;
+  font-weight: 600;
+  bottom: 6%;
+  left: 18%;
+  color: white;
+}
