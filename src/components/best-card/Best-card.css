@@ -1,0 +1,38 @@
+.row {
+  width: 411px;
+  height: auto;
+  border: 1px solid rgba(0, 0, 0, 0.3);
+  border-radius: 20px;
+  padding-bottom: 20px;
+}
+.bestcard {
+  padding-bottom: 50px;
+}
+.row img {
+  margin-bottom: 20px;
+}
+.card-text {
+  width: 362px;
+  margin: 0 auto;
+}
+.card-text h4 {
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 40px;
+}
+.card-text p {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+}
+.card-text h2 {
+  font-weight: normal;
+}
+
+.card-btn {
+  width: 77px;
+  height: 30px;
+  background: #3771c8;
+  border-radius: 4px;
+  color: white;
+}

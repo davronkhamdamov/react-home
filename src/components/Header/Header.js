@@ -28,10 +28,10 @@ function Header() {
                 <li>
                   <a href="index.html">Contact</a>
                 </li>
-              <div className="btn-group">
-                <Menu />
-                <SignIn />
-              </div>
+                <div className="btn-group">
+                  <Menu />
+                  <SignIn />
+                </div>
               </ul>
             </div>
           </nav>
